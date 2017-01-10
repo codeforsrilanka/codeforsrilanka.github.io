@@ -1373,7 +1373,7 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: rgba(124, 159, 189, 0.42);
+  background-color: rgba(124, 159, 189, 0.42);;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
