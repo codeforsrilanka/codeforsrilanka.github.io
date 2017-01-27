@@ -38,6 +38,7 @@
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
+		
                 <a href="#top" onclick=$("#menu-close").click();>Code For Sri Lanka</a>
             </li>
             <li>
@@ -61,10 +62,11 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
+	<img style="height: 160px; width: 300px;" src="./img/logo.png">
             <h1>Code for Sri Lanka</h1>
-            <h3>We help government work for the people who need it most.</h3>
+            <h3 style="color:white;">We help government work for the people who need it most.</h3>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+          
         </div>
     </header>
 
