@@ -3,7 +3,6 @@
   box-shadow: $box-shadow;
   background-color: $white;
   transition: background-color 0.2s ease;
-
   .navbar-brand .logo{
     max-height: 120px;
   }
@@ -59,7 +58,7 @@
       background-color: $white;
       .navbar-brand .logo{
         color: $gray-900;
-        max-height: 70px;
+        max-height: 50px;
         &:hover {
           color: $info;
         }
