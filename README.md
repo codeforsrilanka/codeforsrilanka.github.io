@@ -1,1 +1,1 @@
-# [Code for Sri Lanka](https://codeforsrilanka.org/)
+# codeforsrilanka.github.io
