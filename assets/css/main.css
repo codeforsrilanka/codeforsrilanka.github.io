@@ -127,7 +127,7 @@ body {
   transition: opacity 2s ease-in-out;
   height: 100%;
   left: 0;
-  opacity: 0.375;
+  opacity: 0.4;
   position: fixed;
   top: 0;
   width: 100%;
@@ -144,7 +144,7 @@ body {
     position: absolute;
     top: 0;
     visibility: hidden;
-    width: 150%; }
+    width: 120%; }
     #bg div.visible {
       -moz-animation: bg 45s linear infinite;
       -webkit-animation: bg 45s linear infinite;
